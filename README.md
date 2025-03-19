@@ -61,7 +61,7 @@ PV modules are prone to defects that impact their efficiency and reliability. Tr
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/PV-Defect-Detection.git
-   cd your-repo-name
+   cd PV-Defect-Detection
    ```
 2. **Install dependencies**:
    ```bash
